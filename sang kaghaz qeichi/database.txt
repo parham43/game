@@ -1,0 +1,3 @@
+parham,rock,rock,Draw
+parham,paper,paper,Draw
+parham,paper,scissors,Lose
